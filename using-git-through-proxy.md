@@ -19,3 +19,6 @@ Command to use:
 Finally, to check the currently set proxy:
 
 `git config --global --get http.proxy`
+
+Also with domain:
+`git config --global http.proxy http://mydomain\\myusername:mypassword@myproxyserver:8080`
