@@ -1,0 +1,10 @@
+Security Assertion Markup Language (SAML) is a standard for logging users into applications based on their sessions in another context. 
+This single sign-on (SSO) login standard has significant advantages over logging in using a username/password:
+
+No need to type in credentials
+No need to remember and renew passwords
+No weak passwords
+
+References:
+https://developers.onelogin.com/saml
+https://www.okta.com/blog/2016/12/what-is-saml/
