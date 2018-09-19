@@ -1,3 +1,4 @@
+'''
 GC.Collect		//Dont use
 StreamWriter		//Stream close
 SqlConnection		//connection Close
@@ -33,3 +34,4 @@ HttpCookie		//check for broad path and domain name
 useUnsafeHeaderParsing	//It must be false
 NetworkCredential		//check the parameter for hardcoded password,username
 .WriteLine		//check parameter for sensitive information
+'''
